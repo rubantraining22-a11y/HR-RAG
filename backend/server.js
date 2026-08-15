@@ -314,10 +314,21 @@ app.post('/api/chat', async (req, res) => {
   }
 });
 
+// Serve frontend dist assets in production if available
+const frontendDist = path.join(__dirname, '../frontend/dist');
+if (fs.existsSync(frontendDist)) {
+  app.use(express.static(frontendDist));
+  app.get('*', (req, res) => {
+    if (!req.path.startsWith('/api')) {
+      res.sendFile(path.join(frontendDist, 'index.html'));
+    }
+  });
+}
+
 // Start Server
 app.listen(PORT, () => {
   console.log(`=======================================================`);
-  console.log(`🚀 Automobile HR RAG Server running on http://localhost:${PORT}`);
+  console.log(`🚀 Automobile HR RAG Server running on port ${PORT}`);
   console.log(`🔗 ChromaDB Target: ${process.env.CHROMA_URL || 'http://localhost:8000'}`);
   console.log(`🧠 Local Embeddings: ${process.env.EMBEDDING_MODEL || 'Xenova/all-MiniLM-L6-v2'}`);
   console.log(`🤖 OpenAI Model: ${process.env.OPENAI_MODEL || 'gpt-4o-mini'}`);

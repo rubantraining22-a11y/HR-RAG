@@ -1,0 +1,28 @@
+services:
+  # 1. ChromaDB Vector Store Container
+  - type: web
+    name: hr-rag-chromadb
+    env: docker
+    dockerfilePath: Dockerfile.chroma
+    plan: free
+    region: oregon
+
+  # 2. Automobile HR RAG App (Backend + React Frontend)
+  - type: web
+    name: hr-rag-assistant
+    env: node
+    buildCommand: npm run build
+    startCommand: npm start
+    plan: free
+    region: oregon
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4o-mini
+      - key: CHROMA_URL
+        value: http://hr-rag-chromadb:8000
+      - key: EMBEDDING_MODEL
+        value: Xenova/all-MiniLM-L6-v2
+      - key: NODE_ENV
+        value: production
