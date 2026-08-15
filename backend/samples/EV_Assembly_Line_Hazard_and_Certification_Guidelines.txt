@@ -1,0 +1,25 @@
+# APEX AUTOMOTIVE ELECTRIC VEHICLE DIVISION
+## High-Voltage Safety Standards, EV Battery Line Certification & Technical Upskilling Policy
+Document ID: APEX-EV-SAFETY-2026-11
+Effective Date: January 1, 2026
+Target Audience: EV Powertrain Engineers, High-Voltage Battery Pack Technicians, Quality Testers, Line Leads
+
+### 1. High Voltage (HV) Qualified Person (HV-QP) Certification
+Working on high-voltage battery systems (operating above 60V DC / 400V–800V architecture in Apex EV models) requires mandatory qualification:
+1. Certification Levels:
+   - Level 1 (HV Aware): All plant floor staff entering the EV zone. Focus on visual warning identification and emergency cutoff locations.
+   - Level 2 (HV Certified Assembly): Assembly technicians handling isolated battery modules. Requires 40 hours of simulator and lab training with 85% passing score.
+   - Level 3 (HV Live-Line Specialist): Diagnostic and battery rework specialists authorized to perform energized diagnostics on live modules. Requires annual re-certification.
+2. Certification Skill Premium: Level 2 certified technicians receive an additional $3.50/hour skill differential. Level 3 specialists receive a $6.00/hour skill differential.
+
+### 2. High-Voltage Personal Protective Equipment & Insulated Tooling
+1. Class 0 / Class 1 Dielectric Gloves: Rated for 1,000V AC / 1,500V DC working voltage. Must undergo pneumatic air-leak testing before every single shift.
+2. Arc Flash Protection: Minimum 8 cal/cm² arc-rated face shield and flame-resistant (FR) protective balaclava and coveralls during battery cell interconnection.
+3. 1000V VDE Insulated Toolkits: Only double-insulated hand tools bearing the VDE standard mark are permitted within 1.5 meters of open battery enclosures.
+
+### 3. Emergency Response & Thermal Runaway Protocol
+1. Immediate Action on Battery Thermal Event / Off-Gassing:
+   - Trip the nearest High-Voltage Emergency Disconnect Pull Station (E-Stop).
+   - Evacuate all personnel within a 50-meter radius to designated muster points.
+   - Engage automated deluge aqueous battery immersion bath.
+2. Hazardous Exposure Compensation: Technicians involved in certified hazardous chemical or electrical remediation receive specialized medical monitoring and a critical response bonus of $250 per logged incident verification.

@@ -1,0 +1,31 @@
+# APEX AUTOMOTIVE MANUFACTURING CORP.
+## Standard Operating Policy: Plant Shift Schedules, Attendance & Shop Floor Safety Protocols
+Document ID: APEX-HR-SOP-2026-01
+Effective Date: January 1, 2026
+Target Audience: All Plant Operations, Assembly Technicians, Shop Floor Supervisors, Quality Control Inspectors
+
+### 1. Shift Structure and Timings
+Apex Automotive operates on a 3-shift rotational model across all assembly, stamping, paint shop, and powertrain units:
+- Shift A (Morning Shift): 06:00 AM – 02:30 PM (includes 30-minute lunch and two 15-minute ergonomics breaks)
+- Shift B (Evening Shift): 02:30 PM – 11:00 PM (includes 30-minute dinner and two 15-minute ergonomics breaks)
+- Shift C (Night / Maintenance Shift): 11:00 PM – 06:30 AM (includes 30-minute midnight refreshment break)
+Shift Rotation: Assembly line teams rotate between Shift A and Shift B every two weeks. Shift C is staffed by dedicated night operations teams and rotating maintenance technicians with a 15% night shift differential allowance.
+
+### 2. Punctuality and Biometric Attendance Rules
+1. Punch-in Grace Period: Employees are permitted a grace period of 7 minutes after shift commencement. Arriving after 7 minutes is marked as 'Late Arrival'.
+2. Three consecutive Late Arrivals within a calendar month result in deduction of half-day casual leave.
+3. Unannounced Absence: Any absence exceeding 2 consecutive days without notifying the Shift Supervisor and HR Plant Desk via the HR Portal is classified as Unauthorized Absence (AWOL) and initiates disciplinary review.
+
+### 3. Personal Protective Equipment (PPE) Compliance
+Safety is non-negotiable across all automotive assembly zones:
+- Mandatory Standard PPE: Steel-toed safety boots (EN ISO 20345 certified), anti-cut Kevlar gloves (Level 4 or 5 depending on sheet metal handling), and high-visibility reflective vests.
+- Paint Shop & Chemical Zone: High-efficiency particulate air (HEPA) respirators with organic vapor cartridges, nitrile gloves, and chemical splash goggles.
+- Stamping & Heavy Press Lines: Custom-molded hearing protection (minimum NRR 28 dB) and polycarbonate impact face shields.
+Non-compliance penalty: First violation triggers a formal safety counseling note; repeat violation within 90 days results in a 3-day suspension without pay.
+
+### 4. Machine Lockout / Tagout (LOTO) Protocol
+Prior to any maintenance, clearing jammed robotic arm cells, or tooling replacement, technicians must apply personalized LOTO padlocks with danger tags.
+Only the designated technician whose key matches the lockout has authority to remove the tag upon job verification.
+
+### 5. Heat and Heavy Labor Fatigue Management
+During summer operations (temperatures exceeding 35°C in press or forge units), mandatory 10-minute hydration intervals are enforced every 90 minutes. Electrolyte hydration stations and cooling lounges are accessible adjacent to all assembly bays.

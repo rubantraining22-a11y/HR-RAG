@@ -1,0 +1,25 @@
+# APEX AUTOMOTIVE MANUFACTURING CORP.
+## Policy Manual: Automotive Technician Overtime Calculation, Leave Entitlement & Allowances
+Document ID: APEX-HR-POL-2026-04
+Effective Date: January 1, 2026
+Applicability: Assembly Technicians, Mechanics, Body Shop Specialists, Diagnostic Engineers, Line Operators
+
+### 1. Overtime (OT) Regulations and Calculation Rules
+1. Eligibility: Non-exempt hourly technicians and shop floor specialists are eligible for overtime compensation when authorized by the Shop Floor Lead.
+2. Standard Overtime Rate: Overtime performed on standard working days beyond the 8-hour shift is calculated at 1.5x of the regular hourly basic rate.
+3. Weekend & National Holiday Overtime: Overtime performed on scheduled weekly rest days or declared company holidays is compensated at 2.0x (Double Time) of the hourly basic rate, along with a compensatory off credit if total holiday shift exceeds 4 hours.
+4. Cap on Monthly Overtime: To maintain technician physical well-being and plant precision standards, maximum allowable overtime is capped at 48 hours per calendar month. Exceptions require Plant General Manager and HR Director sign-off.
+5. Overtime Meal Allowance: Technicians logging continuous overtime exceeding 2.5 hours are granted a hot meal voucher redeemable at the Apex Cafeteria or an allowance of $18.00 credited directly to payroll.
+
+### 2. Leave Entitlements
+Apex Automotive provides comprehensive leave categories to support work-life balance and health:
+- Earned / Privilege Leave (PL): 18 working days per annum, credited at 1.5 days per completed month of service. A maximum of 30 days can be carried forward to the subsequent calendar year.
+- Sick & Medical Leave (SL): 12 days per annum with full pay. Medical certificates from a registered medical practitioner are mandatory for sick leave exceeding 2 continuous days.
+- Casual Leave (CL): 8 days per annum for urgent personal commitments. Cannot be combined with Privilege Leave without supervisor approval.
+- Parental Leave: Primary caregivers receive 16 weeks of fully paid maternity leave. Secondary caregivers receive 3 weeks of paid paternity/partner leave.
+- Bereavement Leave: 5 consecutive days of paid leave in the unfortunate event of the demise of immediate family members (spouse, child, parent, sibling).
+
+### 3. Tooling and Gear Allowance
+1. Precision Tooling Stipend: Certified technicians who maintain their individual specialized metric diagnostic toolkits receive an annual tool maintenance stipend of $650 paid in February.
+2. Safety Boot Re-imbursement: Up to $180 per year upon submission of receipt for certified steel-toed boots meeting ASTM F2413 specifications.
+3. Uniform Provision: Apex provides 4 sets of anti-static automotive workwear uniforms and complimentary weekly industrial laundry service.
