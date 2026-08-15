@@ -4,7 +4,7 @@
   "private": true,
   "description": "Production Automobile HR RAG Root Config for Render Deployment",
   "scripts": {
-    "build": "npm install --prefix frontend && npm run build --prefix frontend && npm install --prefix backend",
+    "build": "npm install --prefix frontend --include=dev && npm run build --prefix frontend && npm install --prefix backend",
     "start": "npm start --prefix backend"
   }
 }
